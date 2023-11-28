@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/artemnosenko/Projects/C++Projects/Mag/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DSOME_DEFINITION -I/Users/artemnosenko/Projects/Dep/cpp/eigen-3.4.0  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/my_app.dir/main.cpp.o -c /Users/artemnosenko/Projects/C++Projects/Mag/main.cpp",
+  "file": "/Users/artemnosenko/Projects/C++Projects/Mag/main.cpp",
+  "output": "CMakeFiles/my_app.dir/main.cpp.o"
+}
+]

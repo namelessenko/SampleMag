@@ -1,0 +1,3 @@
+/Users/artemnosenko/Projects/C++Projects/Mag/build/CMakeFiles/my_app.dir
+/Users/artemnosenko/Projects/C++Projects/Mag/build/CMakeFiles/edit_cache.dir
+/Users/artemnosenko/Projects/C++Projects/Mag/build/CMakeFiles/rebuild_cache.dir
